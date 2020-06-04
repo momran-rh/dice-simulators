@@ -1,2 +1,4 @@
 # dice-simulators
-Simulating throwing dice in Python
+Simulator of throwing:
+  - 1 die
+  - 2 dice
